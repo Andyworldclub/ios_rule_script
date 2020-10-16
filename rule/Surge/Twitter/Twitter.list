@@ -1,9 +1,9 @@
 # NAME: Twitter
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-10-16 16:29:47
+# UPDATE: 2020-10-16 23:33:47
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 10
-# TOTAL: 11
+# TOTAL: 
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,t.co

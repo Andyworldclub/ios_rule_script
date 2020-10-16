@@ -1,6 +1,6 @@
 # NAME: ByteDance
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-10-16 16:29:46
+# UPDATE: 2020-10-16 23:33:46
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 HOST-SUFFIX,snssdk.com,ByteDance

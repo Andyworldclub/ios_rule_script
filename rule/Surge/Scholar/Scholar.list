@@ -1,8 +1,8 @@
 # NAME: Scholar
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-10-16 16:29:47
+# UPDATE: 2020-10-16 23:33:47
 # DOMAIN-SUFFIX: 76
-# TOTAL: 76
+# TOTAL: 
 DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,acs.org
 DOMAIN-SUFFIX,aip.org

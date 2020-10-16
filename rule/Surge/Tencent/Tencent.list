@@ -1,8 +1,8 @@
 # NAME: Tencent
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-10-16 16:29:47
+# UPDATE: 2020-10-16 23:33:47
 # DOMAIN-SUFFIX: 19
-# TOTAL: 19
+# TOTAL: 
 DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,idqqimg.com

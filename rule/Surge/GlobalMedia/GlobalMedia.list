@@ -1,12 +1,12 @@
 # NAME: GlobalMedia
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-10-16 16:29:47
+# UPDATE: 2020-10-16 23:33:47
 # DOMAIN: 57
 # DOMAIN-KEYWORD: 13
 # DOMAIN-SUFFIX: 160
 # IP-CIDR: 20
 # USER-AGENT: 46
-# TOTAL: 296
+# TOTAL: 
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN,abematv.akamaized.net
 DOMAIN,aod-dash-uk-live.akamaized.net

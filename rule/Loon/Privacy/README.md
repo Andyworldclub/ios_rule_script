@@ -7,7 +7,7 @@
 定时爬取互联网上开源的隐私分流规则，将其进行清洗、去重、合并、优化后，形成单一的分流规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
 
-最后检查时间：2020-10-16 16:29:52。
+最后检查时间：2020-10-16 23:33:52。
 
 ## 规则统计
 
@@ -42,9 +42,17 @@
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Privacy/Privacy.list
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Privacy/Domain.list
+
 稳定版：
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Privacy/Privacy.list
+
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Privacy/Domain.list
+
+### 特别说明
+
+Privacy.list请使用RULE-SET，Domain.list请使用DOMAIN-SET。
 
 ## 数据来源
 

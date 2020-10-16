@@ -1,8 +1,8 @@
 # NAME: SteamCN
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-10-16 16:29:46
+# UPDATE: 2020-10-16 23:33:47
 # DOMAIN-SUFFIX: 13
-# TOTAL: 13
+# TOTAL: 
 DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,dl.steam.ksyna.com
 DOMAIN-SUFFIX,dota2.wmsj.cn

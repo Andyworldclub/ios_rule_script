@@ -1,11 +1,11 @@
 # NAME: Apple
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-10-16 16:29:46
+# UPDATE: 2020-10-16 23:33:46
 # DOMAIN: 20
 # DOMAIN-SUFFIX: 20
 # IP-CIDR: 10
 # USER-AGENT: 1
-# TOTAL: 51
+# TOTAL: 
 DOMAIN,aod.itunes.apple.com
 DOMAIN,api.smoot.apple.cn
 DOMAIN,appldnld.apple.com

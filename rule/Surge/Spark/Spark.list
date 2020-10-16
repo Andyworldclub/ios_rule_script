@@ -1,8 +1,8 @@
 # NAME: Spark
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-10-16 16:29:47
+# UPDATE: 2020-10-16 23:33:47
 # DOMAIN-SUFFIX: 4
-# TOTAL: 4
+# TOTAL: 
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,hockeyapp.net

@@ -1,11 +1,11 @@
 # NAME: Netflix
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-10-16 16:29:47
+# UPDATE: 2020-10-16 23:33:47
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 18
 # IP-CIDR: 20
 # USER-AGENT: 1
-# TOTAL: 40
+# TOTAL: 
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.com

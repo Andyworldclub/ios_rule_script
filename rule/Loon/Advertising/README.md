@@ -8,7 +8,7 @@
 
 本分流规则不包含任何知乎去广告规则。
 
-最后检查时间：2020-10-16 16:29:48。
+最后检查时间：2020-10-16 23:33:48。
 
 ## 规则统计
 
@@ -60,9 +60,17 @@
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Advertising/Advertising.list
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Advertising/Domain.list
+
 稳定版：
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Advertising/Advertising.list
+
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Advertising/Domain.list
+
+### 特别说明
+
+Advertising.list请使用RULE-SET，Domain.list请使用DOMAIN-SET。
 
 ## 数据来源
 

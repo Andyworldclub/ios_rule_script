@@ -1,10 +1,10 @@
 # NAME: NetEaseMusic
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-10-16 16:29:47
+# UPDATE: 2020-10-16 23:33:47
 # DOMAIN: 6
 # DOMAIN-SUFFIX: 19
 # IP-CIDR: 25
-# TOTAL: 50
+# TOTAL: 
 DOMAIN,apm.music.163.com
 DOMAIN,apm3.music.163.com
 DOMAIN,interface.music.163.com
